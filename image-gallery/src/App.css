@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+
+code {
+  font-size: 1.2em;
+}
+
+h2 { 
+  margin-top: 10px; 
+  margin-bottom: 0; 
+}
+
+h3 {
+ margin-top: 5px;
+ font-weight: normal;
+ font-size: 100%;
+}
+
+img { 
+  width: 400px; 
+  height: 400px;
+}
+
+button:hover {
+  display: inline;
+  margin: 4px 20px;
+}
+
